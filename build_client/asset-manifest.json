@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac5d8010.css",
+    "main.js": "/static/js/main.d6f7444f.js",
+    "static/media/TPdetector_logo.png": "/static/media/TPdetector_logo.aa8057f33a8e2b86d68b.png",
+    "static/media/Img-3.jpg": "/static/media/Img-3.be737e516bf9c51f441f.jpg",
+    "static/media/20638.jpg": "/static/media/20638.eb89dd6bb390ed1de9d1.jpg",
+    "static/media/Img-2.jpg": "/static/media/Img-2.40d48cb5c0aece99f24c.jpg",
+    "static/media/Spinner-3.gif": "/static/media/Spinner-3.aad6d8fc9601365d5221.gif",
+    "static/media/eJESRA-icon.png": "/static/media/eJESRA-icon.a7cea0d22a5e09db0143.png",
+    "static/media/Citation.png": "/static/media/Citation.7e83782aced98b004feb.png",
+    "static/media/conclusion.png": "/static/media/conclusion.9a6080b96c04b4ebfb85.png",
+    "static/media/Img4.jpg": "/static/media/Img4.4ce7488a8555bd677159.jpg",
+    "static/media/search.png": "/static/media/search.1e892b6e958a61177f35.png",
+    "static/media/Loading-bar.gif": "/static/media/Loading-bar.52dd46e729b16fb6c8fe.gif",
+    "static/media/Notequal.png": "/static/media/Notequal.77cfbe5dd25dbae37b8f.png",
+    "static/media/upload.png": "/static/media/upload.edf1a3ac9e28c2424334.png",
+    "static/media/google.png": "/static/media/google.3b44a32b77f4074c1956.png",
+    "static/media/lens.webp": "/static/media/lens.49df05dbea8bc9a34432.webp",
+    "index.html": "/index.html",
+    "main.ac5d8010.css.map": "/static/css/main.ac5d8010.css.map",
+    "main.d6f7444f.js.map": "/static/js/main.d6f7444f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac5d8010.css",
+    "static/js/main.d6f7444f.js"
+  ]
+}
